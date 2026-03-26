@@ -4,7 +4,7 @@ This repository contains datasets of weekly close prices and RSI values for 10 c
 
 ## **Description**
 The datasets include:
-- **Date**: The end-of-week date corresponding to the recorded data.
+- **Date**: The end-of-week date corresponding to the recorded data, until January 8, 2025.
 - **Weekly Close Price**: The weekly closing price of the cryptocurrency in USD.
 - **Weekly RSI**: The Relative Strength Index (RSI) values are calculated using a 14-week rolling window.
 
